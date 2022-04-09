@@ -5,7 +5,6 @@ date: 2022-04-08 19:28:00 +0800
 categories: [Python, Macos]
 tags: [python, macos]
 ---
-# macOS 12 pyenv 和 pyenv-virtualenv 安装和使用
 
 macOS 12.3开始系统自带的Python.2.7被移除
 [macOS Monterey 12.3 Release Notes | Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes)
