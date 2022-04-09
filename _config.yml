@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Youyouorz                          # the main title
+title: Unitaryorz                          # the main title
 
 tagline: Newbie hacker.  # it will display as the sub-title
 
@@ -31,7 +31,7 @@ twitter:
   username: #            # change to your twitter username
 
 social:
-  name: youyouorz                  # it will shows as the copyright owner in Footer
+  name: uniaryorz                  # it will shows as the copyright owner in Footer
   email: youyoujorz@foxmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link

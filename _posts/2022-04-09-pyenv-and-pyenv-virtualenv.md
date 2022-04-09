@@ -1,7 +1,7 @@
 ---
 title: macOS 12 pyenv 和 pyenv-virtualenv 安装和使用
 author: unitaryorz
-date: 2022-04-09 19:28:00 +0800
+date: 2022-04-08 19:28:00 +0800
 categories: [Python, Macos]
 tags: [python, macos]
 ---
